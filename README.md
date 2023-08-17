@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Spannky
 - 👀 I’m interested in ...creating a app that makes it look like a device is rooted
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...as much as i can
+- 💞️ I’m looking to collaborate on ... Root aps
 eddiedale94@gmail.com- 📫 How to reach me ... eddiedale94@gmail.com
+
+ok
 
 
 <!---
